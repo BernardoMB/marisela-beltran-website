@@ -1,13 +1,13 @@
 {
-  "project": "marisela-site-04-glassmorphism",
-  "dir": "C:\\Users\\Bernardo\\Documents\\marisela-beltran\\generated-websites\\marisela-site-04-glassmorphism",
+  "project": "marisela-beltran-website",
+  "dir": "C:\\Users\\Bernardo\\Documents\\marisela-beltran\\generated-websites\\marisela-beltran-website",
   "installed": true,
   "built": true,
   "buildAttempts": 1,
   "fixesApplied": [],
   "smokeTest": "passed",
-  "runFile": "generated-websites/marisela-site-04-glassmorphism/RUN.md",
-  "runCommand": "cd generated-websites/marisela-site-04-glassmorphism && npm run dev",
-  "buildLog": "artifacts/build-logs/marisela-site-04-glassmorphism.log",
+  "runFile": "generated-websites/marisela-beltran-website/RUN.md",
+  "runCommand": "cd generated-websites/marisela-beltran-website && npm run dev",
+  "buildLog": "artifacts/build-logs/marisela-beltran-website.log",
   "durationMs": 55492
 }

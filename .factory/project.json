@@ -1,14 +1,14 @@
 {
   "briefId": "04-glassmorphism",
   "briefName": "Glassmorphism",
-  "projectName": "marisela-site-04-glassmorphism",
-  "dir": "C:\\Users\\Bernardo\\Documents\\marisela-beltran\\generated-websites\\marisela-site-04-glassmorphism",
+  "projectName": "marisela-beltran-website",
+  "dir": "C:\\Users\\Bernardo\\Documents\\marisela-beltran\\generated-websites\\marisela-beltran-website",
   "inspiration": {
     "url": "https://www.shakira.com/",
     "slug": "shakira-com",
     "extractor": "chhapify"
   },
-  "specFile": "artifacts/ui-specs/marisela-site-04-glassmorphism.spec.json",
+  "specFile": "artifacts/ui-specs/marisela-beltran-website.spec.json",
   "specSource": "deterministic",
   "featureTypes": [
     "navigation",

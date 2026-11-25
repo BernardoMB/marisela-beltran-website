@@ -1,6 +1,6 @@
 {
-  "project": "marisela-site-04-glassmorphism",
-  "dir": "C:\\Users\\Bernardo\\Documents\\marisela-beltran\\generated-websites\\marisela-site-04-glassmorphism",
+  "project": "marisela-beltran-website",
+  "dir": "C:\\Users\\Bernardo\\Documents\\marisela-beltran\\generated-websites\\marisela-beltran-website",
   "issues": [
     {
       "source": "mechanical",
@@ -78,6 +78,6 @@
     "cleanup": "skipped",
     "detail": "claude exited with code 1"
   },
-  "reportFile": "artifacts/validation-reports/marisela-site-04-glassmorphism.md",
+  "reportFile": "artifacts/validation-reports/marisela-beltran-website.md",
   "passed": false
 }
