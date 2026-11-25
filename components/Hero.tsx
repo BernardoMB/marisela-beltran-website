@@ -147,9 +147,10 @@ export default function Hero({ anchorId, variant, title, eyebrow, subtitle, tagl
                 className={cn(
                   // Compact badges hugging the corners when the card is small (phones), floating offsets otherwise.
                   "glass absolute max-w-[60%] px-2.5 py-1.5 text-left @xs:max-w-none @xs:px-4 @xs:py-3",
-                  i === 0 && "-left-3 top-4 @xs:-left-6 @xs:top-10 md:@xs:-left-14",
-                  i === 1 && "-right-3 top-[45%] @xs:-right-4 @xs:top-1/2 md:@xs:-right-12",
-                  i === 2 && "-left-3 bottom-4 @xs:-left-2 @xs:bottom-8 md:@xs:-left-10",
+                  // Below lg (1024px) the badges sit further out from the photo so they cover less of it.
+                  i === 0 && "-left-3 top-4 @xs:-left-6 @xs:top-10 max-lg:-left-16 max-lg:top-2 max-lg:@xs:-left-36 max-[333px]:!-left-15 max-[333px]:!-top-5 md:@xs:-left-14",
+                  i === 1 && "-right-3 top-[45%] @xs:-right-4 @xs:top-1/2 max-lg:-right-16 max-lg:@xs:-right-36 max-[333px]:!-right-15 md:@xs:-right-12",
+                  i === 2 && "-left-3 bottom-4 @xs:-left-2 @xs:bottom-8 max-lg:-left-16 max-lg:bottom-2 max-lg:@xs:-left-36 max-[333px]:!-left-15 max-[333px]:!-bottom-5 md:@xs:-left-10",
                 )}
               >
                 <p className="font-display text-base font-semibold leading-none @xs:text-2xl">{s.value}</p>
