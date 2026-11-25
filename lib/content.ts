@@ -8,7 +8,7 @@ export const artistContent: ArtistContent = {
   "aliases": [
     "Marisela Beltrán"
   ],
-  "tagline": "— Desde 1999",
+  "tagline": "— La Plebona Mayor",
   "shortBio": "Cantante mazatleca e imitadora profesional, ganadora del reality show Todos Quieren Fama.",
   "lang": "es",
   "locale": "es-MX",

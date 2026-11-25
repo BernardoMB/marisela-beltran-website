@@ -33,7 +33,7 @@ export default function Home() {
           eyebrow={"Ganadora de Todos Quieren Fama"}
           //subtitle={"Marisela Beltrán es una joven cantante mazatleca que comienza a ver los resultados de su esfuerzo y dedicación para ganarse un lugar en la música; el 27 de febrero ganó el reality show de TV Azteca, Todos Quieren Fama."}
           subtitle={"Cantante mazatleca e imitadora profesional, ganadora del reality show Todos Quieren Fama."}
-          tagline={"— Desde 1999"}
+          tagline={"— La Plebona Mayor"}
           primaryCta={{"label":"Escuchar","href":"#canciones"}}
           secondaryCta={{"label":"Próximos conciertos","href":"#gira"}}
           showScrollIndicator
@@ -121,7 +121,7 @@ export default function Home() {
       </main>
       <Footer
         brand={"Marisela Beltrán"}
-        tagline={"— Desde 1999"}
+        tagline={"— La Plebona Mayor"}
         links={[{"label":"Discografía","href":"#discografia"},{"label":"Canciones","href":"#canciones"},{"label":"Gira","href":"#gira"},{"label":"Biografía","href":"#biografia"},{"label":"Videos","href":"#videos"},{"label":"Prensa","href":"#prensa"}]}
         socials={artistContent.socialLinks}
         sources={artistContent.credits.sources}
