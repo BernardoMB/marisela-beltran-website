@@ -48,7 +48,7 @@ export default function Footer({ brand, tagline, links, socials, copyright, cred
               )}
             </p>
           ))}
-          {sources?.length ? (
+          {/* {sources?.length ? (
             <p className="mt-2">
               {t("sources")}:{" "}
               {sources.map((s, i) => (
@@ -60,7 +60,7 @@ export default function Footer({ brand, tagline, links, socials, copyright, cred
                 </span>
               ))}
             </p>
-          ) : null}
+          ) : null} */}
         </div>
       </div>
     </footer>
