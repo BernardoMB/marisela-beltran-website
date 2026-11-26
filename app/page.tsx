@@ -99,7 +99,6 @@ export default function Home() {
           eyebrow={"Extra"}
           body={"Artículos oficiales y novedades, directamente desde los canales de la artista."}
           items={[]}
-          cta={{"label":"Explorar","href":"https://www.marisela.com.mx"}}
         />
         <SocialLinks
           anchorId={"redes"}

@@ -13,14 +13,13 @@ export const artistContent: ArtistContent = {
   "lang": "es",
   "locale": "es-MX",
   "biography": {
-    "summary": "Marisela Beltrán es una joven cantante mazatleca que comienza a ver los resultados de su esfuerzo y dedicación para ganarse un lugar en la música; el 27 de febrero ganó el reality show de TV Azteca, Todos Quieren Fama.",
+    "summary": "Marisela Beltrán es cantante e intérprete originaria de Mazatlán, Sinaloa, con más de 30 años de trayectoria artística y ganadora de la segunda temporada de Todos Quieren Fama.",
     "paragraphs": [
-      "Marisela Beltrán es una joven cantante mazatleca que comienza a ver los resultados de su esfuerzo y dedicación para ganarse un lugar en la música; el 27 de febrero ganó el reality show de TV Azteca, Todos Quieren Fama. La carrera de Marisela no es improvisada, pues tiene años de lucha constante, con el objetivo de que su voz sea escuchada por millones de personas y comienza a lograrlo.",
-      "En el 2019, logró entrar a La Voz México, en la primera edición que realizó TV Azteca, logró llegar a la pantalla luego de hacer castings para tres ediciones diferentes de este reality show, pero fue hasta ese año que logró llegar a la etapa de audiciones en vivo, donde interpretando el tema Paloma negra se ganó un lugar en el equipo de Lupillo Rivera.",
-      "En ese momento la suerte no estuvo de su lado, pues dejó el programa en la segunda etapa, en los Knockouts, donde su interpretación del tema Te dirán, de La Adictiva, no le fue suficiente para avanzar; sin embargo, una nueva oportunidad llegó a su vida, y la historia fue completamente diferente. En noviembre del año pasado, envió un video, en forma de casting, para participar en un nuevo reality de TV Azteca, aún sin saber los detalles. Pasó la primera edición, y no fue llamada a participar.",
-      "Fue cuando iba a comenzar la segunda temporada que recibió la noticia que sería una de las participantes. Marisela obtuvo dos premios, pues este concurso tiene un formato en el que hay un ganador por semana, estos son acreedores de un premio monetario de 50 mil pesos, mientras que en la final se enfrentan los ganadores de cada semana y la ganadora, en este casi Marisela, se llevó un premio adicional de 100 mil pesos.",
-      "La cantante dijo en entrevista que, este premio lo utilizará para su carrera, pues ella es una artista independiente, y no es fácil comenzar desde cero, y sin el respaldo de una disquera. “Además quiero dejar de darle dolores de cabeza a mis papás”, agregó la cantante pues son quienes le han estado ayudando durante está pandemia por coronavirus, en la cual se quedó sin trabajo.",
-      "Dijo que su trabajo principal en la Ciudad de México es dar shows de imitación, donde sus caracterizaciones favoritas son Jenni Rivera y Lupita D’Alessio. Sin embargo, esta plataforma comienza a cristalizar un sueño que siempre a tenido; darse a conocer como cantante profesional. Hace aproximadamente dos años, su intención era abrirse paso en el mundo del regional mexicano, como cantante de norteño banda, pero ahora, con esta experiencia se dio cuenta que sus seguidores prefieren escucharla en otros géneros."
+      "Marisela Beltrán es cantante e intérprete originaria de Mazatlán, Sinaloa, con más de 30 años de trayectoria artística. Dueña de una voz versátil, una gran presencia escénica y una notable capacidad para conectar con el público, ha construido una carrera como artista integral que abarca la música, el teatro musical, la conducción, la comedia y la imitación.",
+      "Inició su preparación artística en 1993 en Mazatlán, con estudios de canto, guitarra y técnica vocal con maestros especializados. Representó a Sinaloa en los Encuentros Estatales y Nacionales de Arte y Cultura de la DGETI, donde obtuvo el primer lugar estatal de Canto Tradicional en 2003 y se colocó entre los diez primeros lugares a nivel nacional. En 2005 participó en el proceso de selección de La Academia de TV Azteca, donde destacó entre más de 5,000 aspirantes y llegó al grupo de los primeros 13 seleccionados; posteriormente participó en el casting de Latin American Idol.",
+      "Tras audicionar para tres ediciones distintas, en 2019 llegó a las audiciones en vivo de La Voz México, en la primera edición producida por TV Azteca. Con su interpretación de «Paloma negra» se ganó un lugar en el equipo de Lupillo Rivera y avanzó hasta la etapa de Knockouts. En 2021 se coronó ganadora de la segunda temporada de Todos Quieren Fama, de TV Azteca: tras imponerse en su semana, conquistó la gran final que reunió a los ganadores semanales. Más adelante obtuvo el segundo lugar nacional en el KWC (Karaoke World Championships), consolidándose como una de las intérpretes más destacadas de la competencia vocal en México.",
+      "A lo largo de su carrera se ha desarrollado como solista, integrante de agrupaciones, corista, actriz, conductora e imitadora, en espectáculos musicales, teatro y entretenimiento en México y el extranjero. Su repertorio recorre la salsa, la cumbia, la bachata, la balada, el pop, la música regional y el tropical, y ha formado parte de agrupaciones como Seven Seconds, Soul & Mar, Grupo Stampa, Grupo Kandela, Mambito Band y Shantal, así como de diversos proyectos musicales en Mazatlán, Durango y la Ciudad de México, donde también ha destacado con sus shows de imitación de figuras como Jenni Rivera y Lupita D'Alessio. Su trayectoria incluye reconocimientos estatales y nacionales, así como presentaciones y giras internacionales.",
+      "Hoy, como artista independiente, Marisela prepara nuevo material musical inspirado en sus propias experiencias y vivencias, con el propósito de transformar esas historias en canciones con las que el público se sienta identificado y conecte de manera auténtica."
     ],
     "facts": [
       {
@@ -61,11 +60,6 @@ export const artistContent: ArtistContent = {
     "labels": [],
     "sourceNote": "Texto basado en el sitio oficial y testimonios de familiares y amigos.",
     "sources": [
-      {
-        "label": "Sitio oficial — Biografía",
-        "href": "http://marisela.com.mx/biografia",
-        "external": true
-      },
       {
         "label": "Wikipedia (es)",
         "href": "https://es.wikipedia.org/wiki/Marisela_(cantante)",
@@ -591,24 +585,26 @@ export const artistContent: ArtistContent = {
     {
       "platform": "instagram",
       "label": "Instagram",
-      "href": "https://www.instagram.com/mariselaofficial/",
-      "handle": "@mariselaofficial"
+      "href": "https://www.instagram.com/MARISELABELTRANMUSICA/",
+      "handle": "@MARISELABELTRANMUSICA"
+    },
+    {
+      "platform": "tiktok",
+      "label": "TikTok",
+      "href": "https://www.tiktok.com/@MARISELABELTRAN07",
+      "handle": "@MARISELABELTRAN07"
     },
     {
       "platform": "facebook",
       "label": "Facebook",
-      "href": "https://www.facebook.com/MariselaLaCantante/"
+      "href": "https://www.facebook.com/MARISELABELTRANMUSICA",
+      "handle": "@MARISELABELTRANMUSICA"
     },
     {
       "platform": "x",
       "label": "X",
       "href": "https://twitter.com/tudama_marisela",
       "handle": "@tudama_marisela"
-    },
-    {
-      "platform": "website",
-      "label": "Web",
-      "href": "https://www.marisela.com.mx"
     }
   ],
   "pressQuotes": [
@@ -688,11 +684,9 @@ export const artistContent: ArtistContent = {
   },
   "news": [],
   "contact": {
-    "bookingEmail": "sgproduccioneventos@gmail.com",
-    "bookingUrl": "http://marisela.com.mx/contacto"
+    "bookingEmail": "sgproduccioneventos@gmail.com"
   },
   "spotifyArtistId": "73c2MjCAFNyKYIs7nBlqG2",
-  "officialSite": "https://www.marisela.com.mx",
   "credits": {
     "sources": [
       {
@@ -723,16 +717,6 @@ export const artistContent: ArtistContent = {
       {
         "label": "Apple Music / iTunes",
         "href": "https://music.apple.com/mx/artist/marisela/295749",
-        "external": true
-      },
-      {
-        "label": "Sitio oficial",
-        "href": "https://www.marisela.com.mx",
-        "external": true
-      },
-      {
-        "label": "Sitio oficial — Biografía",
-        "href": "http://marisela.com.mx/biografia",
         "external": true
       },
       {
