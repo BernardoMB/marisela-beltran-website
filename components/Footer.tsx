@@ -36,7 +36,17 @@ export default function Footer({ brand, tagline, links, socials, copyright, cred
             {copyright}. {t("allRightsReserved")}
           </p>
           {credits.map((c) => (
-            <p key={c}>{c}</p>
+            <p key={c}>
+              {c.split(/(https?:\/\/\S+)/).map((part, i) =>
+                /^https?:\/\//.test(part) ? (
+                  <a key={i} {...linkAttrs(part)} className="hover:text-primary">
+                    {part}
+                  </a>
+                ) : (
+                  <span key={i}>{part}</span>
+                ),
+              )}
+            </p>
           ))}
           {sources?.length ? (
             <p className="mt-2">

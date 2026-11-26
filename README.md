@@ -29,8 +29,6 @@ npm run build && npm start   # production
 - [MusicBrainz](https://musicbrainz.org/artist/bf319713-88a0-4a06-ab6f-2ead83e923bb)
 - [Deezer](https://www.deezer.com/artist/8856)
 - [Apple Music / iTunes](https://music.apple.com/mx/artist/marisela/295749)
-- [Sitio oficial](https://www.marisela.com.mx)
-- [Sitio oficial — Biografía](http://marisela.com.mx/biografia)
 - [YouTube](https://www.youtube.com)
 - [Wikimedia Commons](https://commons.wikimedia.org)
 - [Spotify](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2)
